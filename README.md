@@ -3,7 +3,7 @@
 ### Go Backend Developer
 
 I'm a student focused on backend development with Go.
-I'm building projects to improve my skills and gain practical experience.
+Currently building my main project — a full-featured TODO backend application — while improving my skills through hands-on development.
 
 ### Tech Stack
 
@@ -12,9 +12,14 @@ I'm building projects to improve my skills and gain practical experience.
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker,bash)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-### Projects
+### Currently Working On
+
+- [TODO Backend App](https://github.com/Viperesss/todo-backend-app) — my main project, focused on building a complete backend application with Go, PostgreSQL, Docker and layered architecture.
+
+### Other Projects
 
 - [Weather API Wrapper Service](https://github.com/Viperesss/weather-api-wrapper-service)
 - [Mitya Nagan Bot](https://github.com/Viperesss/mitya-nagan-bot)
@@ -24,3 +29,4 @@ I'm building projects to improve my skills and gain practical experience.
 - Go backend development
 - PostgreSQL and database migrations
 - Docker and Docker Compose
+- Backend architecture and software design principles
